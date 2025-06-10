@@ -72,7 +72,7 @@ Engaging talks on AI integration, clean code practices, and building sustainable
 
 ## 💡 Latest Newsletter Issues
 <!-- NEWSLETTER-LIST:START -->
-- Unable to fetch newsletter issues at this time
+- [The Most Underrated Skill in the AI Coding Era](https://diamantetechcoaching.com/newsletter/issue-001-underrated-skill-ai-era) - Jun 4, 2025
 <!-- NEWSLETTER-LIST:END -->
 
 ## 📫 Let's Connect!

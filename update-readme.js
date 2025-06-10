@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const RSSReader = require('./rss-reader');
 
-const RSS_FEED_URL = 'https://subscribepage.io/refactor-to-grow/feed';
+const RSS_FEED_URL = 'https://diamantetechcoaching.com/api/rss.xml';
 const README_PATH = path.join(__dirname, 'README.md');
 
 async function updateReadmeWithNewsletter() {
