@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hey, I'm Steven 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Technical+Coach+%7C+Refactoring+Expert;Helping+Developers+Level+Up;Building+Diamante+Technical+Coaching;Author+of+Refactor+to+Grow+Newsletter)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86AB&center=true&vCenter=true&width=450&lines=Technical+Coach;Refactoring+Expert;Developer+Mentor;Newsletter+Author)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevendiamante/)
 [![Newsletter](https://img.shields.io/badge/Newsletter-FF6B6B?style=for-the-badge&logo=substack&logoColor=white)](https://subscribepage.io/refactor-to-grow)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steven@diamantetechcoaching.com)
@@ -70,12 +70,9 @@ Level up your entire team with hands-on workshops on refactoring, clean code, an
 ### 🎤 Speaking & Training
 Engaging talks on AI integration, clean code practices, and building sustainable software systems.
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 💡 Latest Newsletter Issues
 <!-- NEWSLETTER-LIST:START -->
+- Unable to fetch newsletter issues at this time
 <!-- NEWSLETTER-LIST:END -->
 
 ## 📫 Let's Connect!

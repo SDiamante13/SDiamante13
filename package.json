@@ -1,0 +1,14 @@
+{
+  "name": "github-profile",
+  "version": "1.0.0",
+  "description": "RSS feed reader for GitHub profile README",
+  "main": "update-readme.js",
+  "scripts": {
+    "update-newsletter": "node update-readme.js"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  },
+  "author": "Steven Diamante",
+  "license": "MIT"
+}
