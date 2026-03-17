@@ -17,7 +17,7 @@ const coach = {
     mission: "Helping teams bring technical excellance to AI coding agents",
     currentFocus: ["Agents Coding", "Technical Leadership", "Agentic Engineering", "Software Craftsmanship"],
     newsletter: "Refactor to Grow",
-    upcomingWorkshop: "[Taming the Dragon: Ship Production Code with AI Coding Agents](https://diamantetechcoaching.gumroad.com/l/taming-the-dragon)",
+    upcomingWorkshop: "https://diamantetechcoaching.gumroad.com/l/taming-the-dragon",
     events: "Speaking at DevOpsDays Raleigh on Apr 30th"
 };
 ```
