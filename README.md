@@ -14,7 +14,7 @@ const coach = {
     name: "Steven Diamante",
     role: "Technical Coach | Consultant",
     company: "Artium.AI | Diamante Technical Coaching",
-    mission: "Helping teams bring technical excellance to AI coding agents",
+    mission: "Helping teams bring technical excellence to AI coding agents",
     currentFocus: ["Agents Coding", "Technical Leadership", "Agentic Engineering", "Software Craftsmanship"],
     newsletter: "Refactor to Grow",
     upcomingWorkshop: "https://diamantetechcoaching.gumroad.com/l/taming-the-dragon",
