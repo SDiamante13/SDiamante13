@@ -7,18 +7,18 @@
 
 ## 🚀 About Me
 
-I'm a passionate technical coach dedicated to helping software developers **refactor their code and their careers**. Through Diamante Technical Coaching, I empower developers to write cleaner code, think more strategically, and grow into technical leaders.
+I'm a passionate technical coach dedicated to helping software developers tame their coding agents by instilling guardrails, discipline, and collaboration. Through Diamante Technical Coaching, I empower developers to write maintainable code at a sustainable pace alongside powerful coding agents.
 
 ```javascript
 const coach = {
     name: "Steven Diamante",
     role: "Technical Coach | Consultant",
     company: "Artium.AI | Diamante Technical Coaching",
-    mission: "Helping developers refactor code and careers",
-    currentFocus: ["Clean Code", "Technical Leadership", "AI Integration", "Software Craftsmanship"],
+    mission: "Helping teams bring technical excellance to AI coding agents",
+    currentFocus: ["Agents Coding", "Technical Leadership", "Agentic Engineering", "Software Craftsmanship"],
     newsletter: "Refactor to Grow",
-    upcomingChallenge: "Refactor in 10 Days Email Challenge",
-    events: "Approval Testing Learning Hour"
+    upcomingWorkshop: "[Taming the Dragon: Ship Production Code with AI Coding Agents](https://diamantetechcoaching.gumroad.com/l/taming-the-dragon)",
+    events: "Speaking at DevOpsDays Raleigh on Apr 30th"
 };
 ```
 
@@ -26,10 +26,7 @@ const coach = {
 
 📧 [Refactor to Grow Newsletter](https://subscribepage.io/refactor-to-grow)
 
-Bi-weekly insights on clean code, refactoring techniques, and career growth for developers
-
-🎯 [Refactor in 10 Days Challenge](https://subscribepage.io/refactor10)
-Transform your coding practices with daily refactoring exercises and video tutorials
+Insights on the agentic coding landscape and where craftsmanship plays a part.
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -72,12 +69,12 @@ Engaging talks on AI integration, clean code practices, and building sustainable
 
 ## 💡 Latest Newsletter Issues
 <!-- NEWSLETTER-LIST:START -->
-- [The Most Underrated Skill in the AI Coding Era](https://diamantetechcoaching.com/newsletter/issue-001-underrated-skill-ai-era) - Jun 4, 2025
+- [Grieving the Death of Coding](https://diamantetechcoaching.com/newsletter/issue-007-grieving) - March 11, 2026
 <!-- NEWSLETTER-LIST:END -->
 
 ## 📫 Let's Connect!
 
-Ready to refactor your code and career?
+Ready to refactor the way you use coding agents?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevendiamante/)
 [![Newsletter](https://img.shields.io/badge/Subscribe%20to%20Newsletter-FF6B6B?style=for-the-badge&logo=substack&logoColor=white)](https://subscribepage.io/refactor-to-grow)
